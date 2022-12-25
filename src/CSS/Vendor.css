@@ -1,0 +1,32 @@
+.top-container
+{
+  height: 740px;
+  width: 100%;
+  background-color: #E5D9B6;
+}
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.vendor_img
+{
+  width: 300px;
+  height: 300px;
+  border: 5px solid #555;
+}
+.byer_img
+{
+  width: 300px;
+  height: 300px;
+  border: 5px solid #555;
+}
+h1
+{
+  font-family: serif;
+  display: inline;
+}
+.top-container a{
+  color: black;
+  text-decoration: none;
+}
